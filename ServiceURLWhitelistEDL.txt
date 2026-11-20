@@ -6,3 +6,5 @@ login.windows.net/
 login.windows.com/
 sts.windows.net/
 westus.api.cognitive.microsoft.com/
+smba.trafficmanager.net/
+smba.onyx.prod.teams.trafficmanager.net/
